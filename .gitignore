@@ -1,0 +1,6 @@
+images
+dataset*
+exported_model
+__pycache__
+*_old*
+arduino_data.xlsx
